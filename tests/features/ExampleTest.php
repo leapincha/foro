@@ -7,12 +7,6 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 class ExampleTest extends FeatureTestCase
 {
 
-    
-    /**
-     * A basic functional test example.
-     *
-     * @return void
-     */
     public function testBasicExample()
     {
 
